@@ -1,34 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=header"/>
+# Josip Brekalo
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jbrekalo&show_icons=true&count_private=true&hide_border=true&title_color=F2B035&icon_color=F28963&text_color=c9d1d9&bg_color=0d1117" alt="Jean Dias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrekalo&layout=compact&hide_border=true&title_color=F2167D&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+Shopify Developer based in Zagreb. I build Shopify stores and the tracking, testing and automation behind them.
 
-<br>
+**What I work on**
 
-<div align="center"> 
-  <a href="https://www.instagram.com/_josipbrekalo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jbrekalo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-    <a href = "mailto:josip.brekalo@hotmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">         </a>
-</div>
+- **Stores and sections:** Shopify Plus themes, custom sections and blocks in Liquid and JavaScript
+- **Tracking and experiments:** dataLayer, cross-domain tracking, A/B tests with Kameleoon
+- **Apps and automation:** checkout UI extensions, Shopify Flow, custom apps with React, Node.js and the GraphQL Admin API
+- **Quality:** Playwright end-to-end tests that cover the purchase from landing page to checkout
 
- ### Main skills:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+Much of my work since 2023 has been on the Shopify Plus stores of the PharmaSGP group: pureSGP, Restaxil, Baldriparan, RubaXX and Mavosten. That code is private, so the contribution graph says more than the list of public repos. The older public ones are from when I was learning JavaScript and React.
 
-### Studying in this moment:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+**Find me**
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jbrekalo}/count.svg" /></p> 
-  <br>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05C7F2&height=120&section=footer" />
+- Portfolio: [josipbrekalo.com](https://josipbrekalo.com)
+- LinkedIn: [in/jbrekalo](https://www.linkedin.com/in/jbrekalo/)
